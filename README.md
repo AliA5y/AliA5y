@@ -1,9 +1,9 @@
-# Hi, I'm Ali Alzaidy   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-
+# Welcome to my world   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+# I'm Ali Alzaidy
 I am a passionate Flutter Developer, driven by a curiosity for technology and a love for creation. My journey involves delving into the world of computer science, exploring new ideas, and building digital products for the community.
 
 ## 💻 Skills and Tools
-<div align="center">
+
   <a href="https://www.dart.dev/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="50" height="50"/>
   <a href="https://flutter.dev/">
@@ -42,35 +42,29 @@ I am a passionate Flutter Developer, driven by a curiosity for technology and a 
 <a href="https://www.adobe.com/products/illustrator.html">
   <img src="https://skillicons.dev/icons?i=ai" title="Adobe Illustrator" alt="Adobe Illustrator" width="50" height="50"/>
 </a>
-</div>
     
 ## 📬 Get in Touch
 <a href="">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" height="50"/>
 </a>
 <a href="">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" title="Telegram" alt="Telegram" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" title="Telegram" alt="Telegram" height="50"/>
 </a>
 <a href="">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" title="Twitter" alt="Twitter" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" title="Twitter" alt="Twitter" height="50"/>
 </a>
 <a href="">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" title="YouTube" alt="YouTube" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" title="YouTube" alt="YouTube" height="50"/>
 </a>
 <a href="">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" title="Portfolio" alt="Portfolio" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Globe_icon_2.svg" title="Portfolio" alt="Portfolio" height="50"/>
 </a>
 
 ## 📈 My Stats
 
-<div align="center">
-
 ![AliA5y's Stats](https://github-readme-stats.vercel.app/api?username=AliA5y&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliA5y&layout=compact&theme=vue-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AliA5y&theme=vue-dark&hide_border=true&background=0d1117&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff)](https://git.io/streak-stats)
-
-</div>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliA5y&layout=compact&theme=vue-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📰 My Articles
 - [Flutter Wireless Debugging](https://www.linkedin.com/posts/ali-al-zaidy-00502630a_flutter-wireless-debugging-%D8%A8%D8%B9%D8%B6-%D8%A7%D9%84%D9%85%D8%B7%D9%88%D8%B1%D9%8A%D9%86-activity-7199400793844633600-Wzry?utm_source=share&utm_medium=member_android)
@@ -79,4 +73,7 @@ I am a passionate Flutter Developer, driven by a curiosity for technology and a 
 
 ## ❤️ Support Me:
 
-Thanks for visiting my profile! Let's build something amazing together. 🚀
+## Thanks for visiting my profile! Let's build something amazing together. 🚀
+<div align="center">
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="70%" />
+</div>
