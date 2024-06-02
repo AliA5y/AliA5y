@@ -76,5 +76,5 @@ I am a passionate Flutter Developer, driven by a curiosity for technology and a 
 
 ## Thanks for visiting my profile! Let's build something amazing together. 🚀
 <div align="center">
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="70%" />
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="80%" />
 </div>
