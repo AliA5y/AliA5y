@@ -62,9 +62,9 @@ I am a passionate Flutter Developer, driven by a curiosity for technology and a 
 
 ## 📈 My Stats
 
-![AliA5y's Stats](https://github-readme-stats.vercel.app/api?username=AliA5y&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AliA5y&theme=vue-dark&hide_border=true&background=0d1117&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliA5y&layout=compact&theme=vue-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![AliA5y's Stats](https://github-readme-stats.vercel.app/api?username=AliA5y&theme=vue-dark&border_radius=16&show_icons=true&hide_border=true&count_private=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AliA5y&theme=vue-dark&border_radius=16)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliA5y&layout=compact&theme=vue-dark&border_radius=16&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📰 My Articles
 - [Flutter Wireless Debugging](https://www.linkedin.com/posts/ali-al-zaidy-00502630a_flutter-wireless-debugging-%D8%A8%D8%B9%D8%B6-%D8%A7%D9%84%D9%85%D8%B7%D9%88%D8%B1%D9%8A%D9%86-activity-7199400793844633600-Wzry?utm_source=share&utm_medium=member_android)
