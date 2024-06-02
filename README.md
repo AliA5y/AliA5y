@@ -57,7 +57,7 @@ I am a passionate Flutter Developer, driven by a curiosity for technology and a 
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" title="YouTube" alt="YouTube" height="50"/>
 </a>
 <a href="">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Blue_globe_icon.svg" title="Portfolio" alt="Portfolio" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/14/Globe_%28icon%29.svg" title="Portfolio" alt="Portfolio" height="50"/>
 </a>
 
 ## 📈 My Stats
