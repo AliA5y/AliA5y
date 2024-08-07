@@ -65,6 +65,7 @@ I am a passionate Flutter Developer, driven by a curiosity for technology and a 
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/14/Globe_%28icon%29.svg" title="Portfolio" alt="Portfolio" height="50"/>
 </a>
 -->
+
 ## 📈 My Stats
 <img src="https://komarev.com/ghpvc/?username=AliA5y&style=flat-square&color=blue" alt="AliA5y"/>
 
