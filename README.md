@@ -13,9 +13,11 @@ I am a passionate Flutter Developer, driven by a curiosity for technology and a 
 <a href="https://firebase.google.com/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="50" height="50"/>
 </a>
+<!--
 <a href="https://graphql.org/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" alt="GraphQL" width="50" height="50"/>
 </a>
+-->
 <a href="https://git-scm.com/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>
 </a>
@@ -45,12 +47,13 @@ I am a passionate Flutter Developer, driven by a curiosity for technology and a 
 </a>
     
 ## 📬 Get in Touch
-<a href="">
+<a href="https://www.linkedin.com/in/ali-al-zaidy-00502630a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
   <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" height="50"/>
 </a>
-<a href="">
+<a href="t.me/Ali_774322947">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" title="Telegram" alt="Telegram" height="50"/>
 </a>
+<!--
 <a href="">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg" title="Twitter" alt="Twitter" height="50"/>
 </a>
@@ -60,7 +63,7 @@ I am a passionate Flutter Developer, driven by a curiosity for technology and a 
 <a href="">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/14/Globe_%28icon%29.svg" title="Portfolio" alt="Portfolio" height="50"/>
 </a>
-
+-->
 ## 📈 My Stats
 <img src="https://komarev.com/ghpvc/?username=AliA5y&style=flat-square&color=blue" alt="AliA5y"/>
 
@@ -73,8 +76,9 @@ I am a passionate Flutter Developer, driven by a curiosity for technology and a 
 
 ## 📱 Projects:
 
+<!--
 ## ❤️ Support Me:
-
+-->
 ## Thanks for visiting my profile! Let's build something amazing together. 🚀
 <div align="center">
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="80%" />
