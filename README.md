@@ -1,4 +1,5 @@
-# Welcome to my world   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+# Welcome to my world 
+
 # I'm Ali Alzaidy
 I am a passionate Flutter Developer, driven by a curiosity for technology and a love for creation. My journey involves delving into the world of computer science, exploring new ideas, and building digital products for the community.
 
