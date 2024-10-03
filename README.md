@@ -70,9 +70,9 @@ I am a passionate Flutter Developer, driven by a curiosity for technology and a 
 <img src="https://komarev.com/ghpvc/?username=AliA5y&style=flat-square&color=blue" alt="AliA5y"/>
 
 ![AliA5y's Stats](https://github-readme-stats-alia5ys-projects.vercel.app/api?username=AliA5y&theme=vue-dark&border_radius=16&show_icons=true&hide_border=true&count_private=true)
-![AliA5y's Stats](https://github-readme-stats.vercel.app/api/wakatime/?username=AliA5y&theme=vue-dark&border_radius=16&show_icons=true&hide_border=true&count_private=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AliA5y&theme=vue-dark&border_radius=16&border=00545400)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliA5y&layout=compact&theme=vue-dark&border_radius=16&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![AliA5y's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AliA5y&theme=vue-dark&border_radius=16&show_icons=true&hide_border=true&count_private=true)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliA5y&layout=compact&theme=vue-dark&border_radius=16&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)-->
 
 ## 📰 My Articles
 - [Flutter Wireless Debugging](https://www.linkedin.com/posts/ali-al-zaidy-00502630a_flutter-wireless-debugging-%D8%A8%D8%B9%D8%B6-%D8%A7%D9%84%D9%85%D8%B7%D9%88%D8%B1%D9%8A%D9%86-activity-7199400793844633600-Wzry?utm_source=share&utm_medium=member_android)
