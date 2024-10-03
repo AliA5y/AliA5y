@@ -1,6 +1,7 @@
-# Welcome to my world 
+# Welcome to my world
 
 # I'm Ali Alzaidy
+
 I am a passionate Flutter Developer, driven by a curiosity for technology and a love for creation. My journey involves delving into the world of computer science, exploring new ideas, and building digital products for the community.
 
 ## 💻 Skills and Tools
@@ -46,8 +47,8 @@ I am a passionate Flutter Developer, driven by a curiosity for technology and a 
   <img src="https://skillicons.dev/icons?i=ai" title="Adobe Illustrator" alt="Adobe Illustrator" width="50" height="50"/>
 </a>
 
-    
 ## 📬 Get in Touch
+
 <a href="https://www.linkedin.com/in/ali-al-zaidy-00502630a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
   <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" height="50"/>
 </a>
@@ -67,13 +68,14 @@ I am a passionate Flutter Developer, driven by a curiosity for technology and a 
 -->
 
 ## 📈 My Stats
+
 <img src="https://komarev.com/ghpvc/?username=AliA5y&style=flat-square&color=blue" alt="AliA5y"/>
 
 ![AliA5y's Stats](https://github-readme-stats-alia5ys-projects.vercel.app/api?username=AliA5y&theme=vue-dark&border_radius=16&show_icons=true&hide_border=true&count_private=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AliA5y&theme=vue-dark&border_radius=16&border=00545400)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=AliA5y&theme=vue-dark&border_radius=16&card_width=470&card_height=180)](https://git.io/streak-stats)
 
 ## 📰 My Articles
+
 - [Flutter Wireless Debugging](https://www.linkedin.com/posts/ali-al-zaidy-00502630a_flutter-wireless-debugging-%D8%A8%D8%B9%D8%B6-%D8%A7%D9%84%D9%85%D8%B7%D9%88%D8%B1%D9%8A%D9%86-activity-7199400793844633600-Wzry?utm_source=share&utm_medium=member_android)
 
 ## 📱 Projects:
@@ -81,7 +83,9 @@ I am a passionate Flutter Developer, driven by a curiosity for technology and a 
 <!--
 ## ❤️ Support Me:
 -->
+
 ## Thanks for visiting my profile! Let's build something amazing together. 🚀
+
 <div align="center">
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="80%" />
 </div>
