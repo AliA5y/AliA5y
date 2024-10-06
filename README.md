@@ -72,7 +72,7 @@ I am a passionate Flutter Developer, driven by a curiosity for technology and a 
 <img src="https://komarev.com/ghpvc/?username=AliA5y&style=flat-square&color=blue" alt="AliA5y"/>
 
 ![AliA5y's Stats](https://github-readme-stats-alia5ys-projects.vercel.app/api?username=AliA5y&theme=vue-dark&border_radius=16&show_icons=true&hide_border=true&count_private=true)
-[![GitHub Streak](https://streak-stats.demolab.com?user=AliA5y&theme=vue-dark&border_radius=16&card_width=470&card_height=180)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AliA5y&theme=vue-dark&border_radius=16&border=00545400&card_width=470&card_height=180)](https://git.io/streak-stats)
 
 ## 📰 My Articles
 
