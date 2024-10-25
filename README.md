@@ -3,6 +3,11 @@
 # I'm Ali Alzaidy
 
 I am a passionate Flutter Developer, driven by a curiosity for technology and a love for creation. My journey involves delving into the world of computer science, exploring new ideas, and building digital products for the community.
+## 📱 Projects:
+
+<a href="https://play.google.com/store/apps/details?id=com.story.route9"> <img src="https://github.com/user-attachments/assets/1e3a0655-d96a-49e8-91e4-ed8f8d9b76c5" title="Story" alt="Story" width="100" height="100"/> </a>
+<a href="https://play.google.com/store/apps/details?id=com.story.route9"> <img src="https://github.com/user-attachments/assets/48b7537a-a1a3-4182-89c3-1552d745ad56" title="Story" alt="Story" width="100" height="100"/> </a>
+<a href="https://play.google.com/store/apps/details?id=com.story.route9"> <img src="https://github.com/user-attachments/assets/cf0022e6-a1b8-4b86-b62c-a27bf466e8d1" title="Story" alt="Story" width="100" height="100"/> </a>
 
 ## 💻 Skills and Tools
 
@@ -78,7 +83,6 @@ I am a passionate Flutter Developer, driven by a curiosity for technology and a 
 
 - [Flutter Wireless Debugging](https://www.linkedin.com/posts/ali-al-zaidy-00502630a_flutter-wireless-debugging-%D8%A8%D8%B9%D8%B6-%D8%A7%D9%84%D9%85%D8%B7%D9%88%D8%B1%D9%8A%D9%86-activity-7199400793844633600-Wzry?utm_source=share&utm_medium=member_android)
 
-## 📱 Projects:
 
 <!--
 ## ❤️ Support Me:
