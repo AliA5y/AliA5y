@@ -32,6 +32,17 @@ I am a passionate Flutter Developer, driven by a curiosity for technology and a 
     </tr>
 </table>
 
+## 📋 Capabilities
+
+- Build mobile and desktop apps from scratch to production.
+- Achieve perfectly responsive and adaptive User Interfaces.
+- Perform maintenance and improvements to existing apps.
+- Handle app updates.
+- Monitor app release for crashes and issues reports, and enhance app stability.
+- Collaboration and Teamwork.
+- Excellent reasoning and troubleshooting skills along with strong problem solving capabilities.
+- Creative thinking.
+
 ## 💻 Skills and Tools
 
   <a href="https://www.dart.dev/">
