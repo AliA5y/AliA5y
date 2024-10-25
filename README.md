@@ -1,13 +1,36 @@
+
 # Welcome to my world
 
 # I'm Ali Alzaidy
 
 I am a passionate Flutter Developer, driven by a curiosity for technology and a love for creation. My journey involves delving into the world of computer science, exploring new ideas, and building digital products for the community.
+
 ## 📱 Projects:
-<h5>Tap on each app logo for more info </h5>
-<a href="https://play.google.com/store/apps/details?id=com.story.route9"> <img src="https://github.com/user-attachments/assets/1e3a0655-d96a-49e8-91e4-ed8f8d9b76c5" title="Story" alt="Story" width="100" height="100"/> </a>
-<a href="https://alia5y.github.io/notes_bloc/apk/Notes%20Bloc.apk"> <img src="https://github.com/user-attachments/assets/48b7537a-a1a3-4182-89c3-1552d745ad56" title="Notes Bloc" alt="Notes Bloc" width="100" height="100"/> </a>
-<a href="https://play.google.com/store/apps/details?id=com.story.route9"> <img src="https://github.com/user-attachments/assets/cf0022e6-a1b8-4b86-b62c-a27bf466e8d1" title="Story" alt="Story" width="100" height="100"/> </a>
+<table style="border: 0">
+    <tr>
+        <td style="border: none">
+            <a href="https://play.google.com/store/apps/details?id=com.story.route9">
+                <img src="https://github.com/user-attachments/assets/1e3a0655-d96a-49e8-91e4-ed8f8d9b76c5" title="Story" alt="Story" width="100" height="100"/>
+            </a>
+            <p><a href="https://play.google.com/store/apps/details?id=com.story.route9">Google Play</a></p>
+            <p><a href="https://play.google.com/store/apps/details?id=com.story.route9">‎</a></p>
+        </td>
+        <td style="text-align: center;">
+            <a href="https://alia5y.github.io/notes_bloc/apk/Notes%20Bloc.apk">
+                <img src="https://github.com/user-attachments/assets/48b7537a-a1a3-4182-89c3-1552d745ad56" title="Notes Bloc" alt="Notes Bloc" width="100" height="100"/>
+            </a>
+            <p><a href="https://alia5y.github.io/notes_bloc/apk/Notes%20Bloc.apk">Direct Download</a></p>
+            <p><a href="https://notes-bloc.uptodown.com/android">Uptodown</a></p>
+        </td>
+        <td style="text-align: center;">
+            <a href="#">
+                <img src="https://github.com/user-attachments/assets/cf0022e6-a1b8-4b86-b62c-a27bf466e8d1" title="Pregnant Care" alt="Pregnant Care" width="100" height="100"/>
+            </a>
+           <p><a href="#">Show Info</a></p>
+           <p><a href="#">‎</a></p>
+        </td>
+    </tr>
+</table>
 
 ## 💻 Skills and Tools
 
