@@ -22,10 +22,10 @@ I am a passionate Flutter Developer, driven by a curiosity for technology and a 
             <p><a href="https://notes-bloc.uptodown.com/android">Uptodown</a></p>
         </td>
         <td style="text-align: center;">
-            <a href="#">
+            <a href="https://github.com/AliA5y/pregnant_care_app/tree/main">
                 <img src="https://github.com/user-attachments/assets/8758c962-e239-405d-b8a5-368486756859" title="Pregnant Care" alt="Pregnant Care" width="100" height="100"/>
             </a>
-           <p><a href="#">Show Info</a></p>
+           <p><a href="https://github.com/AliA5y/pregnant_care_app/tree/main">Show Info</a></p>
            <p><a href="#">‎</a></p>
         </td>
     </tr>
@@ -46,6 +46,7 @@ I am a passionate Flutter Developer, driven by a curiosity for technology and a 
 
   <a href="https://www.dart.dev/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="50" height="50"/>
+</a>
   <a href="https://flutter.dev/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="50" height="50"/>
 </a>
