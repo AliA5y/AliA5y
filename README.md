@@ -29,6 +29,29 @@ I am a passionate Flutter Developer, driven by a curiosity for technology and a 
            <p><a href="#">‎</a></p>
         </td>
     </tr>
+    <tr>
+        <td style="border: none">
+<!--             <a href="https://play.google.com/store/apps/details?id=com.story.route9">
+                <img src="https://github.com/user-attachments/assets/1e3a0655-d96a-49e8-91e4-ed8f8d9b76c5" title="Story" alt="Story" width="60" height="60"/> -->
+            </a>
+            <p><a href="#">Weather App</a></p>
+            <p><a href="https://alia5y.github.io/weather_app/apk/Weather%20App.apk">‎Try the app</a></p>
+        </td>
+<!--         <td style="text-align: center;">
+            <a href="https://alia5y.github.io/notes_bloc/apk/Notes%20Bloc.apk">
+                <img src="https://github.com/user-attachments/assets/48b7537a-a1a3-4182-89c3-1552d745ad56" title="Notes Bloc" alt="Notes Bloc" width="60" height="60"/>
+            </a>
+            <p><a href="https://alia5y.github.io/notes_bloc/apk/Notes%20Bloc.apk">Direct Download</a></p>
+            <p><a href="https://notes-bloc.uptodown.com/android">Uptodown</a></p>
+        </td>
+        <td style="text-align: center;">
+            <a href="https://github.com/AliA5y/pregnant_care_app/tree/main">
+                <img src="https://github.com/user-attachments/assets/8758c962-e239-405d-b8a5-368486756859" title="Pregnant Care" alt="Pregnant Care" width="60" height="60"/>
+            </a>
+           <p><a href="https://github.com/AliA5y/pregnant_care_app/tree/main">Show Info</a></p>
+           <p><a href="#">‎</a></p>
+        </td> -->
+    </tr>
 </table>
 
 ## 📋 Capabilities
