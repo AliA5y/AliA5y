@@ -111,10 +111,10 @@ I am a passionate Flutter Developer, driven by a curiosity for technology and a 
 
 ## 📬 Get in Touch
 
-<a href="https://www.linkedin.com/in/ali-al-zaidy-00502630a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+<a href="https://www.linkedin.com/in/ali-al-zaidy-00502630a">
   <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" height="50"/>
 </a>
-<a href="https://t.me/Ali_774322947">
+<a href="https://t.me/AliA5y">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" title="Telegram" alt="Telegram" height="50"/>
 </a>
 <!--
