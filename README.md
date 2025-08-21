@@ -9,7 +9,7 @@ I am a passionate Flutter Developer, driven by a curiosity for technology and a 
     <tr>
         <td style="border: none">
             <a href="https://play.google.com/store/apps/details?id=com.story.route9">
-                <img src="https://github.com/user-attachments/assets/1e3a0655-d96a-49e8-91e4-ed8f8d9b76c5" title="Story" alt="Story" width="60" height="60"/>
+                <img width="60" height="60" alt="Story" src="https://github.com/user-attachments/assets/ee0fc49f-345b-4e78-b347-2c9ab4e7505b" title="Story"/>
             </a>
             <p><a href="https://play.google.com/store/apps/details?id=com.story.route9">Google Play</a></p>
             <p><a href="https://play.google.com/store/apps/details?id=com.story.route9">‎</a></p>
