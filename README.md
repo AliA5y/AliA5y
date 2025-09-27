@@ -33,21 +33,21 @@ I am a passionate Flutter Developer, driven by a curiosity for technology and a 
     <tr>
         <td style="text-align: center;">
             <a href="https://a5y.vercel.app">
-                <img src="https://github.com/user-attachments/assets/760a2b7e-18ef-4993-a2bd-ea8ce76ab1ce" title="Portfolio" alt="Portfolio" width="60" height="60"/>
+                <img src="https://github.com/user-attachments/assets/8d67c70f-90db-47e7-a139-91ce91112f5c" title="Portfolio" alt="Portfolio" width="60" height="60"/>
             </a>
             <p><a href="https://a5y.vercel.app">Portfolio</a></p>
             <p>‎</p>
         </td>
         <td style="text-align: center;">
             <a href="#">
-                <img src="https://github.com/user-attachments/assets/48b7537a-a1a3-4182-89c3-1552d745ad56" title="Youtuber" alt="Youtuber" width="60" height="60"/>
+                <img src="https://github.com/user-attachments/assets/80ab0a96-39bc-4f07-a018-9ba49040dec1" title="Youtuber" alt="Youtuber" width="60" height="60"/>
             </a>
             <p>Youtuber</p>
             <p>‎</p>
         </td>
         <td style="text-align: center;">
             <a href="#">
-                <img src="https://github.com/user-attachments/assets/8758c962-e239-405d-b8a5-368486756859" title="Safeena" alt="Safeena" width="60" height="60"/>
+                <img src="https://github.com/user-attachments/assets/28a5a47a-4abc-4361-ae4a-5071d5e0786a" title="Safeena" alt="Safeena" width="60" height="60"/>
             </a>
            <p>Safeena</p>
            <p>‎</p>
@@ -173,7 +173,7 @@ I am a passionate Flutter Developer, driven by a curiosity for technology and a 
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" title="Telegram" alt="Telegram" height="50"/>
 </a>
 <a href="https://wa.me/+967774322947">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/whatsapp/whatsapp-original.svg" title="Whatsapp" alt="Whatsapp" height="50"/>
+  <img src="https://github.com/user-attachments/assets/e56857b9-61c2-48fc-8e13-32d45f2b2ea0" title="Whatsapp" alt="Whatsapp" height="50"/>
 </a>
 <!--
 <a href="">
