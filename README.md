@@ -91,38 +91,68 @@ I am a passionate Flutter Developer, driven by a curiosity for technology and a 
 
 ## 💻 Skills and Tools
 
-  <a href="https://www.dart.dev/">
+  <!-- Programming Languages -->
+<a href="https://www.dart.dev/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="50" height="50"/>
-</a>
-  <a href="https://flutter.dev/">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="50" height="50"/>
-</a>
-<a href="https://firebase.google.com/">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="50" height="50"/>
-</a>
-<!--
-<a href="https://graphql.org/">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" alt="GraphQL" width="50" height="50"/>
-</a>
--->
-<a href="https://git-scm.com/">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>
-</a>
-<a href="https://www.iso.org/standard/74528.html">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/>
 </a>
 <a href="https://isocpp.org/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50"/>
 </a>
-<a href="https://www.mathworks.com/products/matlab.html">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="50" height="50"/>
+<a href="https://www.iso.org/standard/74528.html">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/>
+</a>
+<a href="https://www.python.org/">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript" width="50" height="50"/>
 </a>
+<a href="https://www.mathworks.com/products/matlab.html">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="50" height="50"/>
+</a>
+
+<!-- Frameworks & Libraries -->
+<a href="https://flutter.dev/">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="50" height="50"/>
+</a>
+<a href="https://reactjs.org/">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="50" height="50"/>
+</a>
+<a href="https://nodejs.org/">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="50" height="50"/>
+</a>
+<a href="https://expressjs.com/">
+  <img src="https://skillicons.dev/icons?i=express" title="Express.js" alt="Express.js" width="50" height="50"/>
+</a>
+
+<!-- Databases & Backend -->
+<a href="https://firebase.google.com/">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="50" height="50"/>
+</a>
+<a href="https://www.mongodb.com/">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="50" height="50"/>
+</a>
+
+<!-- Tools & Platforms -->
+<a href="https://git-scm.com/">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>
+</a>
+<a href="https://www.docker.com/">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="50" height="50"/>
+</a>
+
+<!-- Embedded Systems & Robotics -->
 <a href="https://www.arduino.cc/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="50" height="50"/>
 </a>
+<a href="https://www.raspberrypi.org/">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" alt="Raspberry Pi" width="50" height="50"/>
+</a>
+<a href="https://www.ros.org/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" title="ROS" alt="ROS" width="50" height="50"/>
+</a>
+
+<!-- Design & Prototyping -->
 <a href="https://www.figma.com/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="50" height="50"/>
 </a>
@@ -132,6 +162,7 @@ I am a passionate Flutter Developer, driven by a curiosity for technology and a 
 <a href="https://www.adobe.com/products/illustrator.html">
   <img src="https://skillicons.dev/icons?i=ai" title="Adobe Illustrator" alt="Adobe Illustrator" width="50" height="50"/>
 </a>
+
 
 ## 📬 Get in Touch
 
