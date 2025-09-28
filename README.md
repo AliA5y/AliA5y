@@ -1,8 +1,7 @@
 # Welcome to my world
 
 # I'm Ali Alzaidy
-
-I am a passionate Flutter Developer, driven by a curiosity for technology and a love for creation. My journey involves delving into the world of computer science, exploring new ideas, and building digital products for the community.
+Passionate Mechatronics Engineer and Softwar developer. Driven by curiosity for technology and a love for creation. Help businesses find technical solution and build digital products that deliver delightful user experiences across mobile, web, desktop, and embedded systems.
 
 ## 📱 Projects:
 
