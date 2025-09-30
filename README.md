@@ -18,7 +18,7 @@ Passionate Mechatronics Engineer and Softwar developer. Driven by curiosity for 
             <a href="https://notes-bloc.ar.uptodown.com/android">
                 <img src="https://github.com/user-attachments/assets/48b7537a-a1a3-4182-89c3-1552d745ad56" title="Notes Bloc" alt="Notes Bloc" width="60" height="60"/>
             </a>
-            <p><a href="https://alia5y.github.io/notes_bloc/apk/Notes%20Bloc.apk">Direct Download</a></p>
+            <p><a href="https://alia5y.github.io/notes_bloc/apk/Notes%20Bloc.apk">Direct Link</a></p>
             <p><a href="https://notes-bloc.ar.uptodown.com/android">Uptodown</a></p>
         </td>
         <td style="text-align: center;">
